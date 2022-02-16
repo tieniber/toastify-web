@@ -1,0 +1,5 @@
+dist/
+node_modules/
+/Volumes/[C] Windows 10/Mendix/Avantax/Toast-main/
+*.log
+.env
