@@ -9,6 +9,11 @@ export default class ToastContainer extends Component {
     }
 
     render() {
-        return <ToastifyContainer />;
+        return (
+            <div>
+                <div>Hello Conner!</div>
+                <ToastifyContainer />
+            </div>
+        );
     }
 }
